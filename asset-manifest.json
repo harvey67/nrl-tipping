@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nrl-tipping/static/css/main.950b82ac.chunk.css",
+    "main.js": "/nrl-tipping/static/js/main.f1ad0cf4.chunk.js",
+    "main.js.map": "/nrl-tipping/static/js/main.f1ad0cf4.chunk.js.map",
+    "runtime-main.js": "/nrl-tipping/static/js/runtime-main.8de4076a.js",
+    "runtime-main.js.map": "/nrl-tipping/static/js/runtime-main.8de4076a.js.map",
+    "static/js/2.eca328ef.chunk.js": "/nrl-tipping/static/js/2.eca328ef.chunk.js",
+    "static/js/2.eca328ef.chunk.js.map": "/nrl-tipping/static/js/2.eca328ef.chunk.js.map",
+    "static/js/3.ace8cf86.chunk.js": "/nrl-tipping/static/js/3.ace8cf86.chunk.js",
+    "static/js/3.ace8cf86.chunk.js.map": "/nrl-tipping/static/js/3.ace8cf86.chunk.js.map",
+    "index.html": "/nrl-tipping/index.html",
+    "static/css/main.950b82ac.chunk.css.map": "/nrl-tipping/static/css/main.950b82ac.chunk.css.map",
+    "static/js/2.eca328ef.chunk.js.LICENSE.txt": "/nrl-tipping/static/js/2.eca328ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8de4076a.js",
+    "static/js/2.eca328ef.chunk.js",
+    "static/css/main.950b82ac.chunk.css",
+    "static/js/main.f1ad0cf4.chunk.js"
+  ]
+}
